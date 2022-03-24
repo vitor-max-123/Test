@@ -1,0 +1,10 @@
+server:
+  port: 8080
+spring:
+  rabbitmq:
+    host:
+    port:
+    username:
+    password:
+  aop:
+    auto: true
